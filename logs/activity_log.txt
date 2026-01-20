@@ -1,0 +1,71 @@
+[2025-12-02 20:40:20] Email template loaded.
+[2025-12-02 20:40:20] Recipient list loaded successfully.
+[2025-12-02 20:40:23] ERROR sending to gowthamr.ai23@bmsce.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34907d4a04bsm1415358a91.0 - gsmtp')
+[2025-12-02 20:40:25] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bce2e676esm156060755ad.0 - gsmtp')
+[2025-12-02 20:40:40] Email template loaded.
+[2025-12-02 20:40:40] Recipient list loaded successfully.
+[2025-12-02 20:40:42] ERROR sending to gowthamr.ai23@bmsce.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3476a560090sm20587995a91.7 - gsmtp')
+[2025-12-02 20:40:44] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-be5095a3833sm15245131a12.28 - gsmtp')
+[2025-12-02 20:43:40] Email template loaded.
+[2025-12-02 20:43:40] Recipient list loaded successfully.
+[2025-12-02 20:43:43] ERROR sending to gowthamr.ai23@bmsce.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-be4fb434e8esm15311781a12.4 - gsmtp')
+[2025-12-02 20:43:45] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bce2e676esm156126035ad.0 - gsmtp')
+[2025-12-02 20:46:33] Email template loaded.
+[2025-12-02 20:46:33] Recipient list loaded successfully.
+[2025-12-02 20:46:35] ERROR sending to gowthamr.ai23@bmsce.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bceb52d14sm156947435ad.82 - gsmtp')
+[2025-12-02 20:46:36] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7d15e9c3dfcsm17268120b3a.40 - gsmtp')
+[2025-12-02 20:46:59] Email template loaded.
+[2025-12-02 20:46:59] Recipient list loaded successfully.
+[2025-12-02 20:47:02] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bceb40123sm158663325ad.69 - gsmtp')
+[2025-12-02 22:14:49] Email template loaded.
+[2025-12-02 22:14:49] Recipient list loaded successfully.
+[2025-12-02 22:14:51] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3477b74c83esm17030698a91.15 - gsmtp')
+[2025-12-02 22:16:55] Email template loaded.
+[2025-12-02 22:16:55] Recipient list loaded successfully.
+[2025-12-02 22:16:57] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-349106792c6sm25919a91.3 - gsmtp')
+[2025-12-02 22:17:54] Email template loaded.
+[2025-12-02 22:17:54] Recipient list loaded successfully.
+[2025-12-02 22:17:57] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bceb4028csm158493395ad.75 - gsmtp')
+[2025-12-02 22:26:14] Email template loaded.
+[2025-12-02 22:26:14] Recipient list loaded successfully.
+[2025-12-02 22:26:16] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bceb55192sm161654575ad.91 - gsmtp')
+[2025-12-02 22:27:41] Email template loaded.
+[2025-12-02 22:27:41] Recipient list loaded successfully.
+[2025-12-02 22:27:43] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bceb28008sm161992685ad.51 - gsmtp')
+[2025-12-02 22:31:22] Email template loaded.
+[2025-12-02 22:31:22] Recipient list loaded successfully.
+[2025-12-02 22:31:25] ERROR sending to gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29bce46ca9bsm162042995ad.38 - gsmtp')
+[2025-12-02 22:32:10] Email template loaded.
+[2025-12-02 22:32:10] Recipient list loaded successfully.
+[2025-12-02 22:32:13] Email sent to gowthammysonrgr@gmail.com
+[2025-12-02 23:00:17] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/G.R Things/Automated_Email_Sender/recipients.csv
+[2026-01-05 18:58:05] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/recipients.csv
+[2026-01-05 18:58:12] Attempt 1 failed for gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a2f3d6d557sm443544035ad.84 - gsmtp')
+[2026-01-05 18:58:16] Attempt 2 failed for gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7ff7a93b41fsm47991859b3a.13 - gsmtp')
+[2026-01-05 18:58:22] Attempt 3 failed for gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a2f3d5d20dsm453930675ad.67 - gsmtp')
+[2026-01-05 18:58:22] Final failure for gowthammysonrgr@gmail.com
+[2026-01-05 19:03:14] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 19:03:19] Attempt 1 failed for gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a3a8770e66sm134557325ad.42 - gsmtp')
+[2026-01-05 19:03:23] Attempt 2 failed for gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c1e7c147943sm42294609a12.26 - gsmtp')
+[2026-01-05 19:03:28] Attempt 3 failed for gowthammysonrgr@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7ff7e48f258sm47932723b3a.47 - gsmtp')
+[2026-01-05 19:03:28] Final failure for gowthammysonrgr@gmail.com
+[2026-01-05 20:51:56] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 20:52:01] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 21:16:34] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 21:17:26] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 21:18:09] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 22:10:40] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 22:11:09] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 22:24:04] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 22:25:30] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 22:25:41] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 22:50:57] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 22:51:26] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 22:51:57] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 23:24:29] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 23:24:37] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 23:24:48] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 23:24:59] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 23:25:29] Email sent to gowthammysonrgr@gmail.com
+[2026-01-05 23:36:18] Recipient list loaded successfully from C:/Users/Gowtham/OneDrive/Desktop/Gowtham R/Automated_Email_Sender/logs/recipients.csv
+[2026-01-05 23:36:39] Email sent to gowthammysonrgr@gmail.com

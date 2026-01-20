@@ -1,0 +1,8 @@
+Hello {name},
+
+This is an automated notification regarding: {subject}.
+
+Please review the details and respond if required.
+
+Best regards,
+Automated Communication System
