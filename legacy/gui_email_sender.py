@@ -14,7 +14,7 @@ from email_utils import load_template, read_csv_file, send_message
 
 EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
-APP_NAME = "Automated Email Sender"
+APP_NAME = "Email Campaign Management System"
 CONFIG_FILE = "config.json"
 
 
